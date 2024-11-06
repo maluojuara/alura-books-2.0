@@ -1,7 +1,9 @@
 const sectionLivros = document.getElementById("livros");
+const sectionValorTotalLivrosDisponiveis = document.getElementById("valor_total_livros_disponiveis");
 
 
 function mostrarLivros(livros) {
+  sectionValorTotalLivrosDisponiveis.innerHTML = "";
     sectionLivros.innerHTML = "";
     livros.forEach(livro => {
       let disponibilidade = livro.quantidade > 0 ? "livro__imagens" : "livro__imagens indisponivel"
