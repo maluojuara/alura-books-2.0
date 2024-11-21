@@ -7,7 +7,7 @@
     <a href="https://cursos.alura.com.br/course/javascript-metodos-array">
       <img align="center" width="37px" src="https://yt3.googleusercontent.com/W7GokEE6ydjZFa_Tpz6yvSsDlVPTe7d4yTsJqKXy1Gbhu1BGXCfKJ_I-_TzOq37m8R9S97kQ=s900-c-k-c0x00ffffff-no-rj"></a>
  
- <span> Course "JavaScript: Array Methods" - Alura </span>
+ <span> Course "JavaScript: Array Methods" - Alura </span> 
 </h1>
 
 <img width="1440" alt="Alura Books" src="https://github.com/user-attachments/assets/fac75022-ccea-4020-a113-1fc7c74651dc">
