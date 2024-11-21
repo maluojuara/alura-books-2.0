@@ -1,6 +1,7 @@
-[![Stars](https://img.shields.io/github/stars/maluojuara/alura-books-2.0?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/maluojuara/alura-books-2.0)
-[![Size](https://img.shields.io/github/repo-size/maluojuara/alura-books-2.0?color=blue&label=Size&logo=Size&style=?style=flat)]([https://github.com/maluojuara/alura-books-2.0](https://github.com/maluojuara/alura-books-2.0))
+[![Stars](https://img.shields.io/github/stars/maluojuara/alura-books-2.0?color=ffff00&label=Stars&style=flat)](https://github.com/maluojuara/alura-books-2.0)
+[![Size](https://img.shields.io/github/repo-size/maluojuara/alura-books-2.0?color=blue&label=Size&style=flat)](https://github.com/maluojuara/alura-books-2.0)
 [![Activity](https://img.shields.io/github/last-commit/maluojuara/alura-books-2.0?color=red&label=Last%20Commit&style=flat)](https://github.com/maluojuara/alura-books-2.0)
+
 
 
 <h1>
